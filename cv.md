@@ -1,5 +1,6 @@
-# Grigoryan Elmira
-************
+# **Grigoryan Elmira**
+**********
+
 # **My Contact Info**
 ***********
 * **Location:** Armenia, Yerevan
@@ -65,4 +66,3 @@ return b;
 2.Russian
 
 3.English level-**C1**
-
