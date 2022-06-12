@@ -1,0 +1,377 @@
+.content{
+	width:960px;
+	height: 100%;
+	/*border:3px solid black;*/
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: auto;
+  	margin-right: auto;
+}
+.logo{
+	width: 450px;
+	height: 350px;
+	border-radius: 100%;
+}
+.aside{
+	width:350px;
+	
+	background-color: #006666;
+	height: 1220px;
+}
+h2{
+	font-size:24px;
+	color:white;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-style:oblique;
+	padding-left:20px;
+	text-align:left;
+}
+.contacts{
+	width: 350px;
+	margin-bottom: 5px;
+}
+.location>p{
+	font-size: 18px;
+	color:white;
+	font-style:italic;
+	margin-left:18px;
+	position:relative;
+	left:55px;
+	bottom:50px;
+}
+.location>img{
+	margin-left:35px;
+	margin-top: 5px;
+}
+.telephone>p{
+	font-size: 18px;
+	color:white;
+	font-style:italic;
+	margin-left:18px;
+	position:relative;
+	left:55px;
+	bottom:68px;
+}
+.telephone>img{
+	margin-left:35px;
+	position:relative;
+	top:-20px;
+	
+}
+.gmail>p{
+	font-size: 18px;
+	color:white;
+	font-style:italic;
+	margin-left:18px;
+	position:relative;
+	left:55px;
+	bottom:77px;
+}
+.gmail>img{
+	margin-left:35px;
+	position:relative;
+	top:-30px;		
+}
+.mail>p{
+	font-size: 18px;
+	color:white;
+	font-style:italic;
+	margin-left:18px;
+	position:relative;
+	left:55px;
+	bottom:90px;
+}
+.mail>img{
+	margin-left:35px;
+	margin-bottom: 5px;
+	position:relative;
+	top:-40px;
+}
+
+/*next section*/
+
+.skills{
+	height: auto;
+	position: relative;
+	bottom:45px;
+}
+.skills>h2{
+	letter-spacing: 0.1em;
+}
+.html>img{
+	margin-left:35px;
+}
+.html>p{
+	font-size: 18px;
+	color:white;
+	font-style:italic;
+	margin-left:15px;
+	letter-spacing: 0.1em;
+	position:relative;
+	left:55px;
+	bottom:48px;
+}
+.css>img{
+	margin-left:35px;
+	margin-top: 5px;
+	position:relative;
+	bottom:48px;
+}
+.css>p{
+	font-size: 18px;
+	color:white;
+	font-style:italic;
+	margin-left:15px;
+	letter-spacing: 0.1em;
+	position:relative;
+	left:55px;
+	bottom:95px;
+}
+.bootstrap>img{
+	margin-left:35px;
+	margin-top: 5px;
+	position:relative;
+	bottom:95px;
+}
+.bootstrap>p{
+	font-size: 18px;
+	color:white;
+	font-style:italic;
+	margin-left:15px;
+	letter-spacing: 0.1em;
+	position:relative;
+	left:55px;
+	bottom:142px;
+}
+.js>img{
+	margin-left:35px;
+	margin-top: 5px;
+	position:relative;
+	bottom:140px;
+}
+.js>p{
+	font-size: 18px;
+	color:white;
+	font-style:italic;
+	margin-left:15px;
+	letter-spacing: 0.1em;
+	position:relative;
+	left:55px;
+	bottom:185px;
+}
+.hobbies{
+	position: relative;
+	bottom: 140px;
+}
+.hobbies>h2{
+	letter-spacing: 0.1em;
+}
+.book>img{
+	margin-left:35px;
+	margin-top: 5px;
+}
+.book>p{
+	font-size:20px;
+	color:white;
+	font-style:italic;
+	margin-left:15px;
+	letter-spacing: 0.1em;
+	position:relative;
+	left:60px;
+	bottom:50px;
+}
+.chess>img{
+	margin-left:35px;
+	margin-top: 5px;
+	position:relative;
+	bottom:60px;
+}
+.chess>p{
+	font-size: 20px;
+	color:white;
+	font-style:italic;
+	margin-left:15px;
+	letter-spacing: 0.1em;
+	position:relative;
+	left:60px;
+	bottom:108px;
+}
+.sport>img{
+	margin-left:35px;
+	margin-top: 5px;
+	position:relative;
+	bottom:30px;
+}
+.sport>p{
+	font-size:20px;
+	color:white;
+	font-style:italic;
+	margin-left:15px;
+	letter-spacing: 0.1em;
+	position:relative;
+	left:60px;
+	bottom:80px;
+}
+.main{
+	width:500px;
+	height: 1230px;
+	float:left;
+	position: absolute;
+	left:500px;
+	top: 0;
+	background-color: white; 
+	
+}
+.avatar{
+	width: 200px;
+	height: 150px;
+	border-radius: 100%;
+	margin-left: 65px;
+	margin-top: 20px;
+
+}
+.section{
+	margin-left:15px;
+}
+.section>h1{
+	font-size: 40px;
+	color:#008080;
+	text-align: center;
+	font-weight: bold;
+	margin-left: 15px;
+}
+.section>h2{
+	font-size: 30px;
+	font-style:italic;
+	text-transform: capitalize;
+	color:#008080;
+	text-align: center;
+	word-spacing: 0.1em;
+}
+.about>h2{
+	font-size:28px;
+	color: #008080;
+	letter-spacing: 0.1em;
+	text-transform: capitalize;
+}
+.about>p{
+	font-size: 20px;
+	color:#3d5c5c;
+	line-height: 1.2em;
+	word-spacing: 0.1em;
+	margin-left: 15px;
+	font-style: italic;
+}
+.education{
+	width: 500px;
+}
+.education>h2{
+	font-size:28px;
+	color: #008080;
+	letter-spacing: 0.1em;
+	text-transform: capitalize;
+}
+.courses>h2{
+	font-size:28px;
+	color: #008080;
+	letter-spacing: 0.1em;
+	text-transform: capitalize;
+}
+ol{
+	list-style: square;
+	list-style-position: outside;
+}
+ul{
+	list-style: square;
+	list-style-position: outside;
+}
+li{
+	color: #3d5c5c;
+	font-size: 20px;
+	font-style:oblique;
+
+}
+.code>h2{
+	font-size:28px;
+	color: #008080;
+	letter-spacing: 0.1em;
+	text-transform: capitalize;
+}
+pre{
+	font-size:18px;
+	color: #3d5c5c;
+}
+.languages>h2{
+	font-size:28px;
+	color: #008080;
+	letter-spacing: 0.1em;
+	text-transform: capitalize;
+}
+ol{
+	list-style: decimal;
+	list-style-position: inside;
+}
+progress{
+	margin-left: 10px;
+
+}
+footer{
+	height: auto;
+	width: 960px;
+	background-color: #004d4d;
+}
+footer>p{
+	text-align: center;
+	font-weight: bold;
+	position: relative;
+	top:-17px;
+	color: white;
+}
+.rs_school>img{
+	width: 150px;
+	height: 30px;
+	position: relative;
+	left:800px;
+	top:-50px;
+}
+.rs_school>a{
+	font-size:18px;
+	font-style:italic;
+	cursor:pointer;
+	color:white;
+	text-decoration: none;
+	position: relative;
+	left:675px;
+	top:-20px;
+
+}
+.rs_school>a:visited{
+	color:#ff751a;
+}
+.rs_school>a:active{
+	color:#ffff00;
+}
+.github>a{
+	font-size:18px;
+	font-style:italic;
+	margin-left:8px;
+	position:relative;
+	left:0px;
+	top:15px;
+	cursor:pointer;
+	color:#ffffff;
+	text-decoration: none;
+}
+
+.github>a:visited{
+	color:#ff751a;
+}
+.github>a:active{
+	color:#ffff00;
+}
+.github>img{
+	margin-left:35px;
+	position: relative;
+	top:25px;
+}
