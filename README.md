@@ -13,4 +13,5 @@ https://Elmira01.github.io/rsschool-cv/cv
 https://Elmira01.github.io/rsschool-cv/
 
 
-https://github.com/Elmira01/rsschool-cv/tree/rsschool-cv-html/CV
+https://Elmira01.github.io/rsschool-cv/rsschool-cv-html/CV
+https://Elmira01.github.io/rsschool-cv/tree/rsschool-cv-html/CV
