@@ -17,7 +17,7 @@ I am an enthusiastic, self-motivated, organized, reliable, responsible and hard 
 ## Education:
 
  1. _*Middle School:*_ Stepan Lisician school N 34
- 2. _*High School:*_ N 2 VARJARAN
+ 2. _*High School:*_ N 2 College
  3. _*University:*_ Yerevan State University
 
 ## Skills
