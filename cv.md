@@ -51,14 +51,19 @@ I am an enthusiastic, self-motivated, organized, reliable, responsible and hard 
         return 'I need to buy a bicycle for my third son.';
       }
     }
-
+    
+## Languages
+ 
+ 1. Armenian - Native
+ 2. Russian - Native
+ 3. English - C1 (according to the online test at  [EPAM](https://www.epam.com/))
 
 ## Courses
 
  - HTML & CSS on [_Scrimba.com_](https://scrimba.com/)
  - Bootstrap on [_Scrimba.com_](https://scrimba.com/)
  - JavaScript on [learnjavascript.ru](https://learn.javascript.ru/)
-
+ 
 
 ## Hobbies
 
@@ -66,9 +71,3 @@ I am an enthusiastic, self-motivated, organized, reliable, responsible and hard 
  2. Travelling
  3. Playing chess and table tennis
  
- 
-## Languages
- 
- 1. Armenian - Native
- 2. Russian - Native
- 3. English - C1 (according to the online test at  [EPAM](https://www.epam.com/))
