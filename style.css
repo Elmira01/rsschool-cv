@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:#f2f2f2;
+    font-family: "Arial", sans-serif;
+    cursor: default;
+}
+h2{
+    font-size: 2rem;
+    font-weight: 500;
+    margin: auto;
+}
+ul>li{
+    text-decoration: none;
+    list-style-type: none;
+    color: black;
+    font-size: 1.5rem;
+    font-weight: 400;
+    cursor:pointer;
+}
