@@ -11,7 +11,7 @@ body{
 h2{
     font-size: 2rem;
     font-weight: 500;
-    margin: 20px;
+    margin: auto;
 }
 ul>li{
     text-decoration: none;
